@@ -1,4 +1,5 @@
-# PA4 - Transformers for Amazon intent classification
+Transformers for Amazon intent classification
+
 
 We are using [poetry](https://python-poetry.org/) for package management. To
 run the code, install poetry, run
